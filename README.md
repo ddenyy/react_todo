@@ -103,7 +103,6 @@ The application exposes the following methods for interacting with notes:
 - **deleteNote(id: string)**: Removes a note by its unique ID.
 - **editNote(id: string, newText: string)**: Updates the content of a specific note.
 - **toggleFavorite(id: string)**: Toggles the "favorite" status of a note.
-- **toggleShowFavorites()**: Toggles between showing all notes or only favorite ones.
 
 ## 🛠 Technologies Used
 
