@@ -1,0 +1,10 @@
+.input-container {
+  min-width: 350px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.input {
+  width: 75%;
+}
